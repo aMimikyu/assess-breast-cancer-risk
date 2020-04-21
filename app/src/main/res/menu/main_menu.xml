@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_button"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        android:onClick="onHomeClick"/>
+
+    <item
+        android:id="@+id/about_app_button"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="About App"
+        android:onClick="onAboutAppClick"
+        />
+
+    <item
+        android:id="@+id/risk_factors_button"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="Risk Factors"
+        android:onClick="onRiskFactorsClick"/>
+
+    <item
+        android:id="@+id/about_cancer_button"
+        android:icon="@drawable/ic_extension_black_24dp"
+        android:title="About Cancer"
+        android:onClick="onAboutCancerClick"
+        />
+
+    <item
+        android:id="@+id/assess_yourself_button"
+        android:icon="@drawable/ic_spa_black_24dp"
+        android:title="Assess Risk"
+        android:onClick="onAssessRiskClick"
+        />
+</menu>

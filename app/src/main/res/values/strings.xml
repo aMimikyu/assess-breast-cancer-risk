@@ -1,0 +1,98 @@
+<resources>
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">Breast Cancer</string>
+    <string name="risk_assesment">Assess Risk</string>
+    <string name="inform_yourself">About Cancer</string>
+    <string name="who_is_at_risk">Risk Factors</string>
+    <string name="what_is_this_app">About App</string>
+    <string name="stay_healthy">Stay Healthy</string>
+    <string name="stay_informed">Stay Informed</string>
+    <string name="breast_cancer_icon">Breast Cancer Icon</string>
+    <string name="who_is_at_risk_button">Risk Factors Button</string>
+    <string name="ionian_university">Ionian University</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- ABOUT APP -->
+    <string name="about_app_title">
+        What is this app?
+    </string>
+    <string name="about_app_text">
+        \nThis app is a university project that presents general information  about breast cancer
+        as well as providing a model to measure a woman\'s risk of having it.
+        According to data gathered by the University Hospital Centre of Coimbra there are 10 predictors, all quantitative,
+        indicating the presence or absence of breast cancer. Using WEKA, we have isolated four of those predictors  and we managed to create a classification model that can
+        potentially be used as a biomarker of breast cancer for women.\n\n
+        While it is unlikely that a regular user will have access to the necessary information needed
+        by the model we are still providing it for anyone who does.
+    </string>
+
+    <!-- RISK FACTORS-->
+    <string name="risk_factors_title">
+        Risk Factors
+    </string>
+    <string name="risk_factors_text">
+        \nA “risk factor” is anything that increases your risk of developing breast cancer.
+        Many of the most important risk factors for breast cancer are beyond your control, such as age, family history, and medical history.
+        However, there are some risk factors you can control, such as weight, physical activity, and alcohol consumption.
+        \n\nBe sure to talk with your doctor about all of your possible risk factors for breast cancer.
+        There may be steps you can take to lower your risk of breast cancer, and your doctor can help you come up with a plan.
+        Your doctor also needs to be aware of any other risk factors beyond your control, so that he or she has an accurate understanding of your level of breast cancer risk.
+        This can influence recommendations about breast cancer screening — what tests to have and when to start having them.
+    </string>
+    <string name="risk_factors_title2">
+        Risk factors you can control
+    </string>
+    <string name="risk_factors_text2">
+        \n<b>Weight.</b> Being overweight is associated with increased risk of breast cancer, especially for women after menopause.
+        Fat tissue is the body’s main source of estrogen after menopause, when the ovaries stop producing the hormone.
+        Having more fat tissue means having higher estrogen levels, which can increase breast cancer risk.
+        \n\n<b>Exercise.</b> Evidence is growing that exercise can reduce breast cancer risk.
+        The American Cancer Society recommends engaging in 45-60 minutes of physical exercise 5 or more days a week.
+        \n\n<b>Alcohol consumption.</b> Studies have shown that breast cancer risk increases with the amount of alcohol a woman drinks.
+        Alcohol can limit your liver’s ability to control blood levels of the hormone estrogen, which in turn can increase risk.
+        \n\n<b>Smoking.</b> Smoking is associated with a small increase in breast cancer risk.
+        \n\n<b>Recent oral contraceptive use.</b> Using oral contraceptives (birth control pills) appears to slightly increase a woman’s risk for breast cancer, but only for a limited period of time.
+        Women who stopped using oral contraceptives more than 10 years ago do not appear to have any increased breast cancer risk.
+    </string>
+
+
+    <!-- ABOUT CANCER-->
+    <string name="about_cancer_title">
+        About Breast Cancer
+    </string>
+    <string name="about_cancer_text">
+        \nBreast cancer is a disease in which cells in the breast grow out of control.
+        There are different kinds of breast cancer. The kind of breast cancer depends on which cells in the breast turn into cancer.
+        \n\nBreast cancer can begin in different parts of the breast. A breast is made up of three main parts: lobules, ducts, and connective tissue.
+        The lobules are the glands that produce milk. The ducts are tubes that carry milk to the nipple.
+         The connective tissue (which consists of fibrous and fatty tissue) surrounds and holds everything together.
+        Most breast cancers begin in the ducts or lobules.
+        \n\nBreast cancer can spread outside the breast through blood vessels and lymph vessels. When breast cancer spreads to other parts of the body, it is said to have metastasized.
+    </string>
+    <string name="about_cancer_types_title">Types of Breast Cancer</string>
+    <string name="about_cancer_types_text">The most common kinds of breast cancer are:\n\n
+
+<b>Invasive ductal carcinoma</b>\n\nThe cancer cells grow outside the ducts into other parts of the breast tissue. Invasive cancer cells can also spread, or metastasize, to other parts of the body.
+        \n\n<b>Invasive lobular carcinoma</b>\n\nCancer cells spread from the lobules to the breast tissues that are close by. These invasive cancer cells can also spread to other parts of the body.
+\n\n\nThere are several other less common kinds of breast cancer, such as Paget’s disease,external icon medullary, mucinous, and inflammatory breast cancer.external icon
+
+Ductal carcinoma in situ (DCIS) is a breast disease that may lead to breast cancer. The cancer cells are only in the lining of the ducts, and have not spread to other tissues in the breast.</string>
+
+
+    <!-- ASSESS RISK-->
+    <string name="glucose_hint">Glucose level</string>
+    <string name="glucose_uom">mg/dl</string>
+    <string name="resistin_hint">Resistin level</string>
+    <string name="resistin_uom">pg/mL</string>
+    <string name="age_hint">Age</string>
+    <string name="age_uom">years</string>
+    <string name="bmi_hint">BMI</string>
+    <string name="bmi_uom">kg/m2</string>
+    <string name="result_button_text">Get Results</string>
+    <string name="positive_result_description_text">We recommend you schedule an appointment with your GP - the sooner breast cancer is caught, the higher the chance of a smooth recovery</string>
+    <string name="positive_result_title_text">HIGH RISK</string>
+    <string name="negative_result_title_text">LOW RISK</string>
+    <string name="negative_result_description_text">Your risk of having breast cancer is low.\nA healthy lifestyle is the best way to keep your risk of developing breast cancer low.</string>
+
+</resources>

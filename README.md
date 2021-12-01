@@ -1,3 +1,5 @@
+![](Screenshots/Screenshot_from_2020-04-14_16-32-52.png)
+
 # What is this app?
 This app is a university project that presents general information  about breast cancer
 as well as providing a model to measure a woman\'s risk of having it.
